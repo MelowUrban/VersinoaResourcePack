@@ -1,34 +1,40 @@
-# Versinoa Resource Pack
+# Versinoa Server Resource Pack
 
-Minecraft Java Edition 1.21.11 向けの、任意で使用できるアクセサリー枠背景パックです。
+Minecraft Java Edition **1.21.11** / VersinoaMainSystem **1.18.0** 用の統合パックです。
 
-ホットバー右4枠に、右から **リング・ブレスレット・ネックレス・イヤリング** のシルエットを表示します。対象は HUD のホットバー、サバイバルのインベントリ、通常チェスト形式の GUI です。
+[最新版リリース](https://github.com/MelowUrban/VersinoaResourcePack/releases/tag/server-v1.18.0)から `VersinoaServer-1.18.0.zip` をダウンロードしてください。
 
-背景は固定画像です。アイテムを置いてもその下に残り、別の GUI や他のパックによる上書きには自動対応しません。装備枠・技能・攻撃制限などのゲーム処理はサーバー側プラグインが担当するため、このパックの導入は必須ではありません。Bedrock Edition では使用できません。
+## 内容
 
-## 配布ファイル
+- 戦闘13技能・生活7技能の個別アイコンとスキルツリー用の画像フォント。
+- 大きな白いツリー画面、方向ボタンによる移動、大小表示切替。
+- 個人インベントリの2×2クラフト欄に、左上リング・右上ブレスレット・左下ネックレス・右下イヤリングの背景。
+- 旧ホットバー右4枠の背景を通常表示へ戻します。
 
-- ファイル: `VersinoaAccessories-silhouettes-1.21.11.zip`
-- サイズ: `8499 bytes`
-- SHA-1: `bcaea180def4abc61acdad4d3e986604388558a5`
-- リリースタグ: `accessories-v1.11.0`
+このZIPだけを適用してください。旧アクセサリーパックとの重ね合わせは不要です。スキル解放・SP・装備・保存はサーバープラグインが担当します。Java専用で、Bedrockへ同じ画面を表示するパックではありません。
 
-このリポジトリの [Releases](https://github.com/MelowUrban/VersinoaResourcePack/releases/tag/accessories-v1.11.0) から ZIP をダウンロードし、Minecraft の「設定 → リソースパック → パックフォルダーを開く」へ ZIP のまま置いて有効にしてください。
+## サーバー配布
 
-## サーバー配布の設定例
-
-以下は公開済みZIPの直接ダウンロードURLです。ログインなしのダウンロードと、取得したZIPのSHA-1・サイズが元ファイルと一致することを確認しました。Paperを正常停止してから、既存のserver.propertiesの同名設定を変更し、起動してください。導入必須にする場合はrequire-resource-pack=trueに変更します。
+Paperを正常停止し、既存 `server.properties` の同名設定を変更して再起動します。
 
 ```properties
-resource-pack=https://github.com/MelowUrban/VersinoaResourcePack/releases/download/accessories-v1.11.0/VersinoaAccessories-silhouettes-1.21.11.zip
-resource-pack-sha1=bcaea180def4abc61acdad4d3e986604388558a5
-require-resource-pack=false
+resource-pack=https://github.com/MelowUrban/VersinoaResourcePack/releases/download/server-v1.18.0/VersinoaServer-1.18.0.zip
+resource-pack-sha1=c539c34f0b8e8e055c816e0ee2e1d143050b5ddd
+require-resource-pack=true
 ```
 
-これは設定例です。実サーバーの設定ファイルは配布物に含みません。
+- サイズ: 209566 bytes
+- SHA-1: `c539c34f0b8e8e055c816e0ee2e1d143050b5ddd`
+- SHA-256: `13c7f79c305f57f2658a9a9674d25f83aa9285e0b30f105a15a9074df5b0ecfc`
 
-## 確認範囲と内容
+ログインなしのダウンロード結果が元ZIPと完全一致することを確認しました。この説明は設定例であり、実サーバーの設定ファイルは変更していません。
 
-ZIP の構造、ファイルサイズ、SHA-1 を確認済みです。実際のゲーム画面での表示は未確認です。
+## 確認範囲
 
-パックには `pack.mcmeta`、案内文、GUI 画像3点のみを含みます。GUI 画像は Mojang の Minecraft Java 1.21.11 素材を基にしています。Minecraft 本体の JAR、プラグインのソース、サーバー設定、認証情報は含みません。
+元のスキル画面試作は本人が実機動作を確認済みです。今回拡大・統合した画面は新たな実機確認前です。画像フォントの263セルは256×256の描画上限内に収めています。自由なマウスドラッグには対応せず、方向ボタンで移動します。
+
+パックには画像、フォント定義、案内文のみを含みます。Minecraft本体JAR、プラグインソース、秘密設定、認証情報は含みません。一部GUI画像はMojangのMinecraft Java1.21.11素材に基づきます。
+
+## 過去版
+
+[1.11.0の旧ホットバー背景](https://github.com/MelowUrban/VersinoaResourcePack/releases/tag/accessories-v1.11.0)は履歴として保持しています。
