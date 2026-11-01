@@ -1,47 +1,45 @@
 # Versinoa Server Resource Pack
 
-Minecraft Java Edition **1.21.11** / VersinoaMainSystem **1.27.0以上** 用の統合パックです。
+Minecraft Java Edition **1.21.11** / VersinoaMainSystem **1.28.0以上** 用の統合パックです。
 
-最新版: [VersinoaServer-1.27.0.zip](packs/VersinoaServer-1.27.0.zip) ([ハッシュ情報](packs/VersinoaServer-1.27.0.json))。
+最新版: [VersinoaServer-1.28.0.zip](packs/VersinoaServer-1.28.0.zip) ([ハッシュ情報](packs/VersinoaServer-1.28.0.json))。
 
 ## 内容
 
-- 体力アイコンを金色グラデーションの星へ変更します。半分・点滅・ハードコア・毒・衰弱・凍結・吸収の表示を含みます。
-- 通常体力を10アイコンで表示する調整はMain 1.27側で行います。乗り物の体力アイコンは従来の表示です。
-- 各技能のノードと接続に対応するスキルツリー画像を維持します。
-- 大きなツリー画面、方向ボタンによる移動、大小表示切替を維持します。
-- 個人インベントリの2×2クラフト欄のアクセサリー背景を維持します。左上リング、右上ブレスレット、左下ネックレス、右下イヤリングです。
-- 旧ホットバー右4枠は通常表示のままです。
+- 緑のスタミナ・青の魔力バーをホットバー上部に表示します。EXPなどの通知とは別の高さです。
+- 満腹度をつながったケーキ風のバーへ変更します。
+- 刀・双剣・大剣・斧・槍・爪・盾・黒魔法・光魔法・精霊魔法・弓・鎌・武術の13種へ支給された透過武器テクスチャを適用します。通常の刀と試験用刀を含む14アイテム定義に対応します。
+- 武器は平面の手持ちモデルです。新しい専用3D形状や弓の引き絞り差分画像は含みません。バニラの武器・素材へ一括上書きしません。
+- 金色グラデーションの星形体力、技能別スキルツリーの画像・フォント・接続線、2×2クラフト欄のアクセサリー背景を保持します。
 
 このZIPだけを適用してください。旧アクセサリーパックとの重ね合わせは不要です。
-**Main 1.27.0以上とセットで使用してください。** スキル解放・SP・装備・保存はサーバープラグインが担当します。
-Java用のパックです。Bedrockのテクスチャは変更しません。Bedrockのスキル画面はプラグイン側のフォーム、またはインベントリGUIを使用します。
+**Main1.28.0と同梱のSkills0.8.1をセットで使用してください。** キャラクターのデータ・戦闘・技能解放・SP・保存はサーバープラグインが担当します。
+Java用のパックです。BEのテクスチャは変更しません。BEやパック未読込ではプラグインが数値のリソース表示へ切り替えます。
 
 ## サーバー配布
 
-Paperを正常停止し、既存 `server.properties` の同名設定を変更して再起動します。
-下記は版ごとのファイルURLです。特定コミットに固定したURLも、Main 1.27.0配布物の `SERVER-RESOURCE-PACK-1.27.0.txt` に記載しています。
+Paperを正常停止し、両プラグインJARを交換し、既存server.propertiesのURLとSHA1を一緒に更新して再起動します。
+下記は版ごとのURLです。特定コミットに固定したURLはMain配布物のdocs/visual-1.28.0/SERVER-RESOURCE-PACK.txtにも記載します。
 
 ```properties
-resource-pack=https://raw.githubusercontent.com/MelowUrban/VersinoaResourcePack/main/packs/VersinoaServer-1.27.0.zip
-resource-pack-sha1=451f46d327cbad3d57056de2f468a0ada53214ba
+resource-pack=https://raw.githubusercontent.com/MelowUrban/VersinoaResourcePack/main/packs/VersinoaServer-1.28.0.zip
+resource-pack-sha1=71f4327c07439973666f09712b86f69353d9587b
 require-resource-pack=true
 ```
 
-- サイズ: 266290 bytes
-- SHA-1: `451f46d327cbad3d57056de2f468a0ada53214ba`
-- SHA-256: `0ff909ad23d8e212ff88130ed5dcdef01960d4ffa30e2c567419927d3cad1a82`
+- サイズ: 306621 bytes
+- SHA-1: `71f4327c07439973666f09712b86f69353d9587b`
+- SHA-256: `f8a2cb379925aaddda256d91248258a61b4db041ccba9e3b15ae77e2328ffa58`
 
-実サーバーの設定ファイルは自動変更していません。今回の表示更新は新たな実機確認前です。
-自由なマウスドラッグには対応せず、方向ボタンで移動します。
-
-パックには画像、フォント定義、案内文のみを含みます。Minecraft本体JAR、プラグインソース、秘密設定、認証情報は含みません。
-一部GUI画像はMojangのMinecraft Java 1.21.11素材に基づきます。
+実サーバーの設定は自動変更していません。新しい表示の実機最終確認は未実施です。
+パックは画像・表示モデル・フォント・案内文だけを含み、本体JAR・プラグインソース・秘密設定を含みません。
+一部GUI画像はMojangのMinecraft Java1.21.11素材に基づきます。支給武器PNGは原本と同じバイトです。
 
 ## 過去版
 
+- [1.27.0の星形体力統合パック](packs/VersinoaServer-1.27.0.zip)
 - [1.26.1の技能別スキルツリー統合パック](packs/VersinoaServer-1.26.1.zip)
 - [1.18.0の統合パック](https://github.com/MelowUrban/VersinoaResourcePack/releases/tag/server-v1.18.0)
 - [1.11.0の旧ホットバー背景](https://github.com/MelowUrban/VersinoaResourcePack/releases/tag/accessories-v1.11.0)
 
-過去のファイル、リリース、添付ファイルは履歴として保持しています。
+過去のファイル・リリース・添付ファイルは履歴として保持しています。

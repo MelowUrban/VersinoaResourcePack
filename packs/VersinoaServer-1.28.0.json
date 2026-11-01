@@ -1,0 +1,25 @@
+{
+  "formatVersion": 1,
+  "version": "1.28.0",
+  "file": "VersinoaServer-1.28.0.zip",
+  "path": "packs/VersinoaServer-1.28.0.zip",
+  "bytes": 306621,
+  "sha1": "71f4327c07439973666f09712b86f69353d9587b",
+  "sha256": "f8a2cb379925aaddda256d91248258a61b4db041ccba9e3b15ae77e2328ffa58",
+  "minecraftJava": "1.21.11",
+  "minimumMainVersion": "1.28.0",
+  "contents": [
+    "Green stamina and blue mana custom HUD bars above EXP notices",
+    "Seamless native cake-themed food bar",
+    "13 supplied weapon texture families for14 current weapon IDs",
+    "Existing gradient star health,dynamic skill tree and accessory backgrounds"
+  ],
+  "previousVersionAssetsPreserved": 322,
+  "zipEntries": 374,
+  "weaponPngSourceSha256": "02eb11a17480b5489bffa28257d0f91ff071746e9260dd89bb41e57cf4e0f766",
+  "weaponArtworkIntegrated": true,
+  "weaponGeometry": "flat2D handheld",
+  "bedrock": "Java textures do not replace Bedrock textures. Main uses numeric resource fallback.",
+  "previousVersion": "packs/VersinoaServer-1.27.0.zip",
+  "serverPropertiesEdited": false
+}
