@@ -1,0 +1,21 @@
+{
+  "formatVersion": 1,
+  "version": "1.27.0",
+  "file": "VersinoaServer-1.27.0.zip",
+  "path": "packs/VersinoaServer-1.27.0.zip",
+  "bytes": 266290,
+  "sha1": "451f46d327cbad3d57056de2f468a0ada53214ba",
+  "sha256": "0ff909ad23d8e212ff88130ed5dcdef01960d4ffa30e2c567419927d3cad1a82",
+  "minecraftJava": "1.21.11",
+  "minimumMainVersion": "1.27.0",
+  "contents": [
+    "44 gradient-gold star health sprites",
+    "Per-discipline dynamic skill tree image-font tiles",
+    "Personal 2x2 crafting-grid accessory silhouettes"
+  ],
+  "previousVersionAssetsPreserved": 278,
+  "zipEntries": 324,
+  "bedrock": "Java textures do not replace Bedrock textures. Skill forms and inventory fallback are supplied by the plugin.",
+  "previousVersion": "packs/VersinoaServer-1.26.1.zip",
+  "serverPropertiesEdited": false
+}
