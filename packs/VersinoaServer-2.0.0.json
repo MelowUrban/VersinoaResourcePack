@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "file": "VersinoaServer-2.0.0.zip",
+  "minecraftJava": "1.21.11",
+  "minimumMainVersion": "2.0.0",
+  "bytes": 3618761,
+  "sha1": "b0630832f87c43f5c3488f16c57ef3b8668ad314",
+  "sha256": "a2fefda701aeb865b6fe544baaab6c034bd995cb997f990fa719e8f9d2fc0ac8",
+  "zipEntries": 4035,
+  "canonicalMaterials": 1200,
+  "normalMonsterModels": 20,
+  "bedrockCustomEntityBridge": false,
+  "previousVersion": "1.28.0",
+  "runtimeAcceptance": "UNCONFIRMED"
+}
