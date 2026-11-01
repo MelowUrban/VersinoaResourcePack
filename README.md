@@ -22,13 +22,13 @@ Paperを正常停止し、既存 `server.properties` の同名設定を変更し
 
 ```properties
 resource-pack=https://raw.githubusercontent.com/MelowUrban/VersinoaResourcePack/main/packs/VersinoaServer-1.26.1.zip
-resource-pack-sha1=d966f025498d777862d48f59dd1fd67e113fe5b5
+resource-pack-sha1=7691be7a13838d38b688719e21ff245bf0d74e09
 require-resource-pack=true
 ```
 
-- サイズ: 250441 bytes
-- SHA-1: `d966f025498d777862d48f59dd1fd67e113fe5b5`
-- SHA-256: `14593756dd64a5a8bbe0c201f9de9d3d47e2aad3649d3bd712b52017cc41fa63`
+- サイズ: 250468 bytes
+- SHA-1: `7691be7a13838d38b688719e21ff245bf0d74e09`
+- SHA-256: `146cf8c373a48091d6491910d625dcf0775b0fa5440a3cdae8f6e41d0bde15de`
 
 実サーバーの設定ファイルは自動変更していません。今回の表示更新は新たな実機確認前です。
 自由なマウスドラッグには対応せず、方向ボタンで移動します。

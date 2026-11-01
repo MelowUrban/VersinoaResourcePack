@@ -3,9 +3,9 @@
   "version": "1.26.1",
   "file": "VersinoaServer-1.26.1.zip",
   "path": "packs/VersinoaServer-1.26.1.zip",
-  "bytes": 250441,
-  "sha1": "d966f025498d777862d48f59dd1fd67e113fe5b5",
-  "sha256": "14593756dd64a5a8bbe0c201f9de9d3d47e2aad3649d3bd712b52017cc41fa63",
+  "bytes": 250468,
+  "sha1": "7691be7a13838d38b688719e21ff245bf0d74e09",
+  "sha256": "146cf8c373a48091d6491910d625dcf0775b0fa5440a3cdae8f6e41d0bde15de",
   "minecraftJava": "1.21.11",
   "minimumMainVersion": "1.26.1",
   "contents": [
