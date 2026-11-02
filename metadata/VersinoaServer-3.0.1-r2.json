@@ -1,0 +1,20 @@
+{
+  "version": "3.0.1-r2",
+  "pack": "packs/VersinoaServer-3.0.1-r2.zip",
+  "sha1": "b7c43231acfb3b4d3a69eca5917c958eed40fbd2",
+  "sha256": "9342ffc6ae400e3a9a0357300f7895ff08273269e935c998d8e5247d130cf8d6",
+  "bytes": 53669083,
+  "java": "1.21.11",
+  "items": 3572,
+  "equipmentDesigns": 2277,
+  "normalMonsterModels": 50,
+  "musicTracks": 4,
+  "basePack": "3.0.0",
+  "hudLabels": [
+    "体力",
+    "スタミナ",
+    "魔力",
+    "空腹度"
+  ],
+  "retainsPriorVersions": true
+}
