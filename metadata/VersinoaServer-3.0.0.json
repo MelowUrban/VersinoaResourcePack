@@ -1,0 +1,14 @@
+{
+  "version": "3.0.0",
+  "pack": "packs/VersinoaServer-3.0.0.zip",
+  "sha1": "32971f217d4b9aac894b5a89bda8cbea3e951244",
+  "sha256": "0ab18442071b53f535fac35202cb764c432f7dc626e2682edcc1435fc7947364",
+  "bytes": 53603485,
+  "java": "1.21.11",
+  "items": 3572,
+  "equipmentDesigns": 2277,
+  "normalMonsterModels": 50,
+  "musicTracks": 4,
+  "basePack": "2.5.0",
+  "retainsPriorVersions": true
+}
