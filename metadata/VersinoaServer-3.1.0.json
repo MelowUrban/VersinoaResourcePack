@@ -1,0 +1,33 @@
+{
+  "version": "3.1.0",
+  "file": "VersinoaServer-3.1.0.zip",
+  "bytes": 57363953,
+  "entries": 8308,
+  "sha1": "1698dce0d9ffd3ff6eafcadca57819c9b726f26a",
+  "sha256": "510ac7ed642ed7c6777203bab4f8956e1cc8e488213a70c864f1ba1dc82064b1",
+  "baseVersion": "3.0.2",
+  "basePackSha256": "73a27820d6725bc40332a73e2b51ccfc14d57e7c7f1c50abdac0d7f62a23e308",
+  "changes": [
+    "Compact150x6 four-row HP/Stamina/Magic/Hunger HUD; separate EXP notice",
+    "399 mono48k OGG /389 monster and slot events; prior4 music definitions retained",
+    "88 boss-material textures and176 item/model JSON bindings"
+  ],
+  "preservedPriorEntries": 7632,
+  "pack": "packs/VersinoaServer-3.1.0.zip",
+  "java": "1.21.11",
+  "hudLabels": [
+    "HP",
+    "Stamina",
+    "Magic",
+    "Hunger"
+  ],
+  "logicalBarWidth": 150,
+  "logicalBarHeight": 6,
+  "barRowPitch": 8,
+  "nativeGlyphWidth": 150,
+  "nativeFontAtlasLimit": 256,
+  "glyphPartsPerBar": 2,
+  "barRows": 4,
+  "activeCustomMonsterModels": 0,
+  "retainsPriorVersions": true
+}
