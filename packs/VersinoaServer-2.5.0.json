@@ -1,0 +1,24 @@
+{
+  "version": "2.5.0",
+  "file": "VersinoaServer-2.5.0.zip",
+  "bytes": 7429880,
+  "sha1": "817a1ae18a28718808a449186f5d416777afede7",
+  "sha256": "d77ce3c8a93be71847273abdb7168894451f68a955f62a67173287bc1f3f9317",
+  "entries": 4129,
+  "normalMonsterModels": 50,
+  "newMonsterIds": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "basePack": "VersinoaServer-2.4.2.zip",
+  "retains": "Existing HUD, fonts, 1200 materials, weapons, aurora sword and 40 monster models",
+  "requiresClientMod": false
+}
