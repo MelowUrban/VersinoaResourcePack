@@ -1,0 +1,21 @@
+{
+  "version": "3.2.0",
+  "bytes": 67627281,
+  "entries": 8373,
+  "sha1": "0e8087527ff3b4f8c389f01ffc610b7f0b6b4db2",
+  "sha256": "8a2596fff52c02f77436ff3f52feb5d9421c615c9ab6f0faad2d4b37cd3aae2f",
+  "file": "VersinoaServer-3.2.0.zip",
+  "pack": "packs/VersinoaServer-3.2.0.zip",
+  "baseVersion": "3.1.0",
+  "basePackSha256": "510ac7ed642ed7c6777203bab4f8956e1cc8e488213a70c864f1ba1dc82064b1",
+  "preservedPriorEntries": 8307,
+  "changes": [
+    "Five articulated boss models, six parts each;65 additional assets",
+    "Existing HUD/equipment/monster/audio assets retained; pack metadata description updated"
+  ],
+  "activeCustomMonsterModels": 5,
+  "normalCustomMonsterModels": 0,
+  "java": "1.21.11",
+  "bedrock": "native fallback",
+  "retainsPriorVersions": true
+}
