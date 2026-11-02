@@ -1,0 +1,15 @@
+{
+  "version": "3.0.1",
+  "pack": "packs/VersinoaServer-3.0.1.zip",
+  "sha1": "dcdbadd9d658be9e1c56eef6074cf0c6abec0565",
+  "sha256": "48af891a1fe69f5d659a15904a8787d0fde8fc006ca23b94497d625b4ff26362",
+  "bytes": 53609854,
+  "java": "1.21.11",
+  "items": 3572,
+  "equipmentDesigns": 2277,
+  "normalMonsterModels": 50,
+  "musicTracks": 4,
+  "basePack": "3.0.0",
+  "healthHud": "continuous red bar labelled 体力",
+  "retainsPriorVersions": true
+}
