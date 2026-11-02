@@ -1,0 +1,22 @@
+{
+  "version": "3.0.2",
+  "pack": "packs/VersinoaServer-3.0.2.zip",
+  "sha1": "4a6f4b3cfa080762c3354c76cd8ae21d23e9ff8d",
+  "sha256": "73a27820d6725bc40332a73e2b51ccfc14d57e7c7f1c50abdac0d7f62a23e308",
+  "bytes": 53716744,
+  "java": "1.21.11",
+  "hudLabels": [
+    "体力",
+    "スタミナ",
+    "魔力",
+    "空腹度"
+  ],
+  "nativeGlyphWidth": 182,
+  "nativeFontAtlasLimit": 256,
+  "glyphPartsPerBar": 2,
+  "barRows": 4,
+  "activeCustomMonsterModels": 0,
+  "retainedHistoricalMonsterModelAssets": 50,
+  "basePack": "3.0.1-r2",
+  "retainsPriorVersions": true
+}
