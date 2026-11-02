@@ -1,0 +1,14 @@
+{
+  "version": "2.4.2",
+  "minecraftJava": "1.21.11",
+  "file": "VersinoaServer-2.4.2.zip",
+  "sha1": "8515cfe36087ecf0c76b0b4881fea6636d268183",
+  "sha256": "1b3299d398dfc74f84befb44fe2e56f66d1cd63623cceac4f11a6594f5be4256",
+  "bytes": 6973823,
+  "entries": 4099,
+  "contents": [
+    "Retains existing HUD, fonts, 1200 material textures and weapon assets",
+    "Forty normal monster model keys with revision2 assets",
+    "Current custom weapon presentation"
+  ]
+}
