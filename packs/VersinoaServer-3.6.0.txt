@@ -1,0 +1,5 @@
+VersinoaRPG server resource pack 3.6.0
+Japanese HP/Stamina/Magic/Hunger in one horizontal row; cumulative Boss01-20 models.
+SHA1 a5db3ef490e2b232602659dc09eaddb2de2cc39e
+SHA256 a10eb9e59b76e6fccaee9657ab221d1e66f798f7bfde9133c3b636d57bd2adaa
+Bytes 98209744
