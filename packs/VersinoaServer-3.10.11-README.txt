@@ -1,0 +1,16 @@
+VersinoaRPG Java server resource pack 3.10.11
+
+Minecraft Java Edition 1.21.11. One combined pack; do not request the sound overlay as a second pack.
+Adds the original shared skill-level-up sound: versinoa:notification.skill_level_up.
+All 393 previous sound events and 8,575 other previous pack entries retain their exact definitions/bytes.
+Only assets/versinoa/sounds.json changes; one OGG and two subtitle language files are added.
+
+File: VersinoaServer-3.10.11.zip
+Bytes: 98215905
+SHA-1: 128241052549eb11286a76d63e34f78238fd15d0
+SHA-256: 62fdcbcad902961594003874cf0599e1891a90d1b58d5c414f52fdf5201817e8
+
+Use the immutable commit-based raw URL recorded by the Main3.10.11 release.
+Set resource-pack-sha1 to the value above. Existing server properties and saved settings are not included here.
+Bedrock uses the existing native level-up fallback; its separate display pack is unchanged.
+Real-client listening remains unconfirmed. No normal/combat BGM is enabled by this pack update.
