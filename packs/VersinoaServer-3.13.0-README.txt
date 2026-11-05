@@ -1,0 +1,3 @@
+VersinoaRPG 3.13.0 | Tempelgarodge field boss
+Includes the complete preceding server pack and 29 additional field boss model/texture assets.
+Java 1.21.11. Retains all earlier HUD, weapon, skill, accessory and sound assets.
