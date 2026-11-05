@@ -1,0 +1,7 @@
+VersinoaServer 3.16.0 / Minecraft Java1.21.11
+Adds the articulated25-block Archangel, animated white/gold aurora atlas and ornate holy weapon family.
+Every8608 prior3.13.0 ZIP member is preserved byte-for-byte;82 asset files added.
+Use with Main3.16.0. Java models require this pack; Bedrock uses its existing native fallback.
+Existing releases/packs unchanged. No BGM activation. Actual client acceptance awaits playtesting.
+SHA1 46f9cb7785dc861f0b0c7d3ebb754e62ceb1493a
+SHA256 b6ae1b64a58a5134c31a30d95efece7e5c16de84fcd578bfc04b3dfbefe00490
