@@ -1,0 +1,7 @@
+VersinoaServer 3.17.0 / Minecraft Java1.21.11
+Repairs the missing item-atlas registration for both existing field boss textures.
+Only assets/minecraft/atlases/items.json changes: two single sprites appended; all other8689 members remain byteexact.
+Use with Main3.17.0. Models, source PNGs and animation data are unchanged. Bedrock item pack is distributed separately.
+Existing releases/packs unchanged. No BGM activation. Actual client acceptance awaits playtesting.
+SHA1 339b64725213c55e929172c1ca2a2510ae76eb93
+SHA256 0b9be6a2f2763ed4a3d809d1678064307b8a76575fb91dd47cef823c6f540d18
