@@ -1,0 +1,7 @@
+VersinoaServer 4.2.0 / Minecraft Java1.21.11
+Adds original animated mount and two wilderness boss assets.
+Only pack.mcmeta and items atlas change among existing entries; all8688 other members remain byteexact,103 newassets appended.
+Use with Main4.2.0. Existing models/PNGs remain unchanged. NewBEboss1.1.0 pack is distributed separately.
+Existing releases/packs unchanged. No BGM activation. Actual client acceptance awaits playtesting.
+SHA1 d56f0da9181a1be8b25f13efca81c381a45db120
+SHA256 7bae71753fe7fd9ab4b72629286d579cc41d9cf2130e80b60a06e6520171eb86
