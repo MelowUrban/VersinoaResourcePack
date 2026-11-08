@@ -1,0 +1,4 @@
+VersinoaRPG5.0.1: compact Japanese slanted four-bar HUD.
+Retains all5.0.0 items/models/sounds and original HUD codepoints/spacing.
+Font attribution is included under licenses/. Main5.0.1 paired identity required.
+Actual client acceptance remains unconfirmed.
