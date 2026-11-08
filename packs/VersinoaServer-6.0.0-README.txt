@@ -1,0 +1,4 @@
+VersinoaRPG6.0.0: detailed136 native-aligned creatures, worn equipment,17 weapon poses and3 carriages.
+Retains all5.1.0 items/worldbosses/sounds/HUD except reviewed88 accessory GUI transforms.
+Original new6 voxel assets authored for VersinoaRPG. Main6.0.0 paired identity required.
+Actual client acceptance remains unconfirmed.
