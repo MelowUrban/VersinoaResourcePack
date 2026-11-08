@@ -1,0 +1,4 @@
+VersinoaRPG server resource pack5.0.0
+88alchemy accessories; all4.2.0 gameplay assets preserved.
+Java1.21.11. Use packs/VersinoaServer-5.0.0.zip and SHA1 b7415d65b585fab0f343ae0cbe5036e4b753fc1f as one pair.
+Server needs Main5.0.0 for new accessory definitions. Existing packs remain immutable.
