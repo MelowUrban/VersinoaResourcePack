@@ -1,0 +1,5 @@
+VersinoaRPG Java resource pack 6.5.0
+Adds Torgaleon, Valgia, Astramandala and Eldia models to the combined 6.0.0 pack.
+All existing five world-boss assets and unrelated item, sound and HUD assets retained.
+Use with Main 6.5.0. Resource-pack SHA1: 70e6a7b9c73fd7dc19484112221c153c391afbf9
+Offline build and package validation passed; actual client acceptance remains unconfirmed.
